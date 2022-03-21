@@ -1,6 +1,7 @@
 #include<iostream>
 #include<algorithm>
 #include<cmath>
+#include<iomanip>
 using namespace std;
 int p[100];
 int main()
